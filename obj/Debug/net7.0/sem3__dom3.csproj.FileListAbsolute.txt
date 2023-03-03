@@ -1,0 +1,15 @@
+E:\Sem 2\sem3__dom3\bin\Debug\net7.0\sem3__dom3.exe
+E:\Sem 2\sem3__dom3\bin\Debug\net7.0\sem3__dom3.deps.json
+E:\Sem 2\sem3__dom3\bin\Debug\net7.0\sem3__dom3.runtimeconfig.json
+E:\Sem 2\sem3__dom3\bin\Debug\net7.0\sem3__dom3.dll
+E:\Sem 2\sem3__dom3\bin\Debug\net7.0\sem3__dom3.pdb
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.csproj.AssemblyReference.cache
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.AssemblyInfoInputs.cache
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.AssemblyInfo.cs
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.csproj.CoreCompileInputs.cache
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.dll
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\refint\sem3__dom3.dll
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.pdb
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\sem3__dom3.genruntimeconfig.cache
+E:\Sem 2\sem3__dom3\obj\Debug\net7.0\ref\sem3__dom3.dll
